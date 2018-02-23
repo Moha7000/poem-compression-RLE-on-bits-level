@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519397762 source:e:\c++\poem compression rle on bits level\main.cpp
+	<iostream>
+	<cstring>
+
